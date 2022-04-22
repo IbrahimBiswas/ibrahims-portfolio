@@ -350,3 +350,36 @@ section .title{
   color: crimson;
   background: none;
 }
+.virtual-address{
+    margin-left: 42%;
+}
+.virtual-address a{
+    font-size: 30px;
+    padding: 15px;
+    color: darkblue;  
+}
+.contactend .max-width .contact-content{
+    display: flex;
+    min-height: 80vh;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.get-in-touch{
+    text-align: center;
+    font-size: 30px;
+    color: red;
+    font-weight: bold;
+    padding: 5px;
+}
+footer{
+    height:40px;
+    background-color: rgb(0, 0, 0);
+}
+
+footer p{
+    text-align: center;
+    padding-top: 10px;
+    font-size: 15px;
+    color:gold;
+}
